@@ -1,0 +1,2 @@
+# Learning_Laravel_Template
+這是一個放我學習Laravel筆記放置的地方，希望來這邊享用的你都可以得到你想要的，共勉之
